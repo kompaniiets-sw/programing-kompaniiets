@@ -23,6 +23,8 @@
  */
 
 #include "lib.h"
+#include <stdlib.h>
+#include <time.h>
 
 /**
  * Головна функція.
